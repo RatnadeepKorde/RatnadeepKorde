@@ -3,7 +3,7 @@
 ----------
 
 # 💫 About Me:
-🔭 I’m currently working on Web Development <br>👯 I’m looking to collaborate on Coding Team<br>🤝 I’m looking forward to help New Coders<br>🌱 I’m currently learning Programing Languages, AI and Data Science .
+🔭 I’m currently working on Web Development <br>👯 I’m looking to collaborate with Coding Team<br>🤝 I’m looking forward to help New Coders<br>🌱 I’m currently learning Programing Languages, AI and Data Science .
 
 
 ## 🌐 Socials:
