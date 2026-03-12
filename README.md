@@ -1,7 +1,6 @@
-[[[https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Ratnadeep%20Korde&fontColor=FFD700&animation=fadeI](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=RATNADEEP%20KORDE&fontColor=FFD700)](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=RATNADEEP%20KORDE&fontColor=FFD700)
-](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=RATNADEEP%20KORDE&fontColor=FFD700)
+# Hi 👋, I'm Ratnadeep Korde
 
-🚀 **Aspiring AI Engineer | Python Learner | Web Development Enthusiast**
+🚀 **Aspiring AI Engineer | Python Learner |**
 
 ---
 
