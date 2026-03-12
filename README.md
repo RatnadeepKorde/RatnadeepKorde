@@ -22,11 +22,6 @@
 ![Git](https://img.shields.io/badge/Git-VersionControl-black?style=for-the-badge\&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-CodeHosting-black?style=for-the-badge\&logo=github)
 
----
-
-## 📊 GitHub Stats
-
-![Ratnadeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=RatnadeepKorde\&show_icons=true\&theme=tokyonight)
 
 ---
 
