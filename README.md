@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ratnadeep Korde
 
-🚀 **Aspiring AI Engineer | Python Learner |**
+🚀 **Aspiring AI Engineer | Python Learner**
 
 ---
 
