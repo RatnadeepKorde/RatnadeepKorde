@@ -25,16 +25,9 @@
 
 ---
 
-## 💻 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RatnadeepKorde\&layout=compact\&theme=tokyonight)
-
----
-
 ## 📌 Current Goals
 
 * ✔ Master **Python Programming**
-* ✔ Learn **Data Structures & Algorithms**
 * ✔ Build **AI / Machine Learning Projects**
 * ✔ Contribute to **Open Source**
 
